@@ -1,0 +1,21 @@
+export { default as IC_language } from './icons/IC_language';
+export { default as IC_location } from './icons/IC_location';
+export { default as IC_Search } from './icons/IC_Search';
+export { default as IC_back } from './icons/IC_back';
+export { default as IC_Play } from './icons/IC_Play';
+export { default as IC_Calendar } from './icons/IC_Calendar';
+export { default as IC_Sort } from './icons/IC_Sort';
+export { default as IC_Compress } from './icons/IC_Compress';
+export { default as IC_Enlarge } from './icons/IC_Enlarge';
+export { default as IC_Clock } from './icons/IC_Clock';
+export { default as IC_Close_Small } from './icons/IC_Close_Small';
+export { default as IC_Close } from './icons/IC_Close';
+export { default as IC_Share } from './icons/IC_Share';
+export { default as IC_Logout } from './icons/IC_Logout';
+export { default as IC_Visa } from './icons/IC_Visa';
+export { default as IC_Cake } from './icons/IC_Cake';
+
+export { default as IMG_Screen } from './imgs/IMG_Screen';
+export { default as IMG_Ellipse1 } from './imgs/IMG_Ellipse1';
+export { default as IMG_Ellipse2 } from './imgs/IMG_Ellipse2';
+export { default as IMG_Screen_Large } from './imgs/IMG_Screen_Large';

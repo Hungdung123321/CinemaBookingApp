@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/PT_Root_UI_Bold.otf",
+      "sha1": "28edf021909cf45531518d0c51380728ebc933a5"
+    },
+    {
+      "path": "src/assets/fonts/PT_Root_UI_Light.otf",
+      "sha1": "9ed5d0c59b698d8e4eeea166e62b44cad6ebed9b"
+    },
+    {
+      "path": "src/assets/fonts/PT_Root_UI_Medium.otf",
+      "sha1": "0de0673f53e7fa5afd1a6745fd5657f45bedfd2b"
+    },
+    {
+      "path": "src/assets/fonts/PT_Root_UI_Regular.otf",
+      "sha1": "1a22bf5696ac28163604d0da0f1a02b2d03f957d"
+    }
+  ]
+}

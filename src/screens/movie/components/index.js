@@ -1,0 +1,5 @@
+export { default as About } from './about'
+export { default as Sessions } from './sessions'
+export { default as Header } from './header'
+export { default as Score } from './score'
+export { default as Trailer } from './trailer'
